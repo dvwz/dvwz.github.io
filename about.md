@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Me
+title: David W Zhou
 permalink: /about/
 ---
 
