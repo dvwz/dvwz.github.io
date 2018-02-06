@@ -4,8 +4,7 @@ title: David W Zhou
 permalink: /about/
 ---
 
-### Social
-[LinkedIn](https://www.linkedin.com/in/davidweizhou/)
+[Publications](https://scholar.google.com/citations?user=aiiwYt0AAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/davidweizhou/)
 
 ---
 ## What I Do
