@@ -1,16 +1,16 @@
 
 # SEO settings
-title: "Think"
-title2: "space" # default: ""
-description: "Just another minimalist Jekyll theme for technical writing."
-keywords: "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
+title: "ugh"
+title2: "think" # default: ""
+description: "dwzhou"
+keywords: ""
 url: http://dvwz.github.io # site url
 baseurl: "" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
 
 google_analytics: UA-XXXXX-XX
 repo: http://github.com/dvwz/dvwz.github.io
-disqus_shortname: ""
+disqus_shortname: "davidzhou"
 twitter_username: "dvwz"
 comments: false
 
@@ -30,7 +30,7 @@ sass:
 # Author settings
 author:
   name     : "David Zhou"
-  job      : "neuroscience PhD student at MIT"
+  job      : "PhD student at MIT"
   bio      : "My interests lie at the intersection of clinical neuroscience, computational analysis, and consciousness science."
   thumb    : /images/author.jpg
   email    : david.wei.zhou@gmail.com
