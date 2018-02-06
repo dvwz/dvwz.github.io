@@ -4,6 +4,10 @@ title: David W Zhou
 permalink: /about/
 ---
 
+### Social
+[LinkedIn](https://www.linkedin.com/in/davidweizhou/)
+
+---
 ## What I Do
 I'm a PhD student in the Dept of Brain and Cognitive Sciences at MIT. My current topic of study is the dynamical activity of brain arousal during general anesthesia and coma. My methods include electroencephalographic and electrophysiological recordings, and structural magnetic resonance imaging in clinical populations. I'm based in Boston, MA.
 
