@@ -1,8 +1,8 @@
 
 # SEO settings
-title: "ugh"
-title2: "think" # default: ""
-description: "dwzhou"
+title: "neuro"
+title2: "signals" # default: ""
+description: "D. W. Zhou"
 keywords: ""
 url: http://dvwz.github.io # site url
 baseurl: "" # apply repo name if use it under gh-pages branch
