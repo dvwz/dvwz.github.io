@@ -30,8 +30,8 @@ sass:
 # Author settings
 author:
   name     : "David Zhou"
-  job      : "neuroscience PhD student"
-  bio      : "What, like my personal motto?"
+  job      : "neuroscience PhD student at MIT"
+  bio      : "My interests lie at the intersection of clinical neuroscience, computational analysis, and consciousness science."
   thumb    : /images/author.jpg
   email    : david.wei.zhou@gmail.com
   url      : http://dvwz.github.io
