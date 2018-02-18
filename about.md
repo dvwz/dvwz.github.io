@@ -4,7 +4,7 @@ title: David W Zhou
 permalink: /about/
 ---
 
-[Publications](https://scholar.google.com/citations?user=aiiwYt0AAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/davidweizhou/) | [CV](https://www.dwzhou.com/CV)
+[Publications](https://scholar.google.com/citations?user=aiiwYt0AAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/davidweizhou/) | [CV](https://www.dwzhou.com/CV) | [dope beats](https://soundcloud.com/dvwz)
 
 ## What I Do
 I'm a PhD student in the Dept of Brain and Cognitive Sciences at MIT. I work in the [Neuroscience Statistics Research Lab](http://www.neurostat.mit.edu/) with Dr. Emery Brown at MIT and the [Neuroimaging in Coma and Consciousness Lab](http://www.massgeneral.org/neurology/research/researchlab.aspx?id=1605) with Dr. Brian Edlow at Massachusetts General Hospital. My current topic of study is the mechanisms of brain arousal during general anesthesia and coma. My methods include electroencephalographic and electrophysiological recordings, and structural magnetic resonance imaging in clinical populations.
