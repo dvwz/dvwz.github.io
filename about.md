@@ -12,4 +12,4 @@ I'm a PhD student in the Dept of Brain and Cognitive Sciences at MIT. I work in 
 I'm based in Boston, MA.
 
 ## What Else I Do
-My other interests are in clinical neurotechnology and signal processing for algotrading. I used to run [a site](http://microaggressions.com) that put [this word](https://www.merriam-webster.com/dictionary/microaggression) into the Merriam-Webster dictionary.
+My other interests are in clinical neurotechnology and signal processing for algotrading. I once created [a Tumblr](http://microaggressions.com) that put [this word](https://www.merriam-webster.com/dictionary/microaggression) into the Merriam-Webster dictionary.
